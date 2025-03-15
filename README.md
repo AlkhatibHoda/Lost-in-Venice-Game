@@ -1,2 +1,2 @@
-# Lost-in-Venice-Game
-A 3D first-person escape game where you complete tasks to find the key and escape. The game features interactive environments and challenges. Developed using Visual Studio, OpenGL for rendering, and Blender for 3D modeling of objects and environments. Explore, solve puzzles, and escape
+#Get-the-key
+A survival game where you control a character searching for a key while avoiding three ghosts. Hide in water to escape them. Game over if touched. Developed with Visual Studio
